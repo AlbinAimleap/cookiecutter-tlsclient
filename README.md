@@ -1,7 +1,7 @@
 
-# Cookiecutter AIOHTTP
+# Cookiecutter TLSCLIENT
 
-A Cookiecutter template for creating AIOHTTP applications with best practices.
+A Cookiecutter template for creating tls_client applications with best practices.
 
 
 ## Usage
